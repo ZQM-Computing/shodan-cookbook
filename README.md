@@ -35,6 +35,8 @@ Security researchers who query internet-device data from the CLI.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-setup` | CLI setup and the setuptools pin |
